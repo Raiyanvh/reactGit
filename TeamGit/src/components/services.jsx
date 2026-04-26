@@ -1,5 +1,5 @@
 import React from "react";
-import "./services.css"
+import "./services.css";
 
 const Services = () => {
     return(
@@ -10,7 +10,7 @@ const Services = () => {
                 nam odio nobis, et aliquid quasi quidem natus nesciunt.
             </p>
         </div>
-    )
-}
+    );
+};
 
 export default Services;
